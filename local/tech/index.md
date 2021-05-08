@@ -19,19 +19,15 @@ has_children: true
 ### Role: editor
 
 1. Web browser
-2. Visual Studio Code with LiveShare extension
+2. [Visual Studio Code](./vscode/) with LiveShare extension
 
 
 ### Role: session host
 
 1. Web browser
-2. Git, and an account on github
-3. Visual Studio Code with LiveShare, Scholarly XML and Rainbow CSV extensions
-4. Julia
+2. [Git](./git/), and an account on github
+3. [Visual Studio Code](./vscode/) with LiveShare, Scholarly XML and Rainbow CSV extensions
+4. [Julia and Pluto noteooks](./pluto/)
 
 
-## Step by step
-
-- git
-- VS Code
-- Julia and Pluto notebooks
+## Detailed instructions
