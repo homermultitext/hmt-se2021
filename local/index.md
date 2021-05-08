@@ -11,5 +11,5 @@ Dates: June 8 - July 9, inclusive
 
 Times: M-F, 12:00-1:00 eastern time
 
-Web site coming soon.
+Web site to be published in late May.
 
