@@ -5,4 +5,4 @@ parent: "Daily schedule"
 nav_order: 1
 ---
 
-# Welcome!
+# Day 1: welcome!
