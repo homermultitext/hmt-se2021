@@ -24,10 +24,11 @@ Verify that you know your user name and password by restarting your browser, and
 
 
 > ## ❗️ Nota bene
-> You will need to know your github name and password the first time you take part in a collaborative editing session using VS Code with the [Live Share extension](../github/liveshare/).  
+> The first time you take part in a collaborative editing session using VS Code with the [Live Share extension](../github/liveshare/), you will need to know your github name, and password
 >
+> If you already have a github account, but have forgotten your password, reset your password before our first group meeting.
 >
-If you already have a github account, but have forgotten your password, reset your password before our first group meeting.
+> You will also need to know the email you used to register with github when you [configure git for your personal machine](../git/)
 
 <style>
     blockquote {
