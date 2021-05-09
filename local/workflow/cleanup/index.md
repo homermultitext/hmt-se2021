@@ -2,7 +2,7 @@
 layout: page
 parent: Workflow
 title: "Cleaning up"
-nav_order: 1
+nav_order: 7
 ---
 
 # Cleaning up

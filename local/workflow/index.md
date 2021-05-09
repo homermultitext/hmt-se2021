@@ -10,7 +10,7 @@ has_children: true
 
 ## Overview
 
-1. In VS Code, [clone your repository](./cloning/).  Note where you save it.
+1. In VS Code, hosts [clone their team's repository](./cloning/).  Note where you save it.
 2. Start Pluto notebooks, and [open validating notebook in the repository](./pluto/) you just cloned.
 3. [Edit](./editing/) (a very little bit).
 4. [Validate](./validating/).  Fix as necessary.
