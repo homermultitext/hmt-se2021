@@ -15,7 +15,7 @@ The "Live Share" extension allows us to edit colaborate in an editing session ov
 
 ## Install and configure
 
-- Install the "Live Share" extension
+- From the exension mode in VS Code ("puzzle pieces" icon), install the "Live Share" extension
 
 
 

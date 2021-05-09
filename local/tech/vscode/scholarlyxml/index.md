@@ -17,7 +17,7 @@ We encode our editions of texts in the eXentsible Markup Language (XML).  We use
 
 ## Install
 
-- install the Scholarly XML extension
+- From the exension mode in VS Code ("puzzle pieces" icon), install the Scholarly XML extension
 
 No additional configuration is necessary.
 
