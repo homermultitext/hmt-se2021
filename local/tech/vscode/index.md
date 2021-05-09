@@ -12,7 +12,7 @@ has_children: true
 
 ## Install Visual Studio Code
 
-- [Download](https://code.visualstudio.com/download) and install
+- [Download](https://code.visualstudio.com/download) and install Visual Studio Code for your operating system
 
 
 ## Installing extensions
