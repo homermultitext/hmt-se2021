@@ -39,7 +39,7 @@ At the terminal prompt in VS Code, run the following two commands.  Include the 
 
 
 
-## Test your installation
+## Test your installation of `git`
 
 In VS Code, open the `Preferences/Settings` menu (under `Code` on OS X, or `File` on Windows).  (You can also do this by typing command+`,`.)
 
