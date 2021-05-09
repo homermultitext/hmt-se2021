@@ -30,9 +30,8 @@ Editors can do everything consultants can do, plus they can directly edit the te
 
 
 1. Web browser
-1. [Account on github](./github/)
 2. [Visual Studio Code](./vscode/) with LiveShare extension
-
+1. [Account on github](./github/)
 
 ### Role: session host
 
@@ -40,9 +39,9 @@ Session hosts manage the team’s github repository, and run validation scripts 
 
 
 1. Web browser
+3. [Visual Studio Code](./vscode/) with LiveShare, Scholarly XML and Rainbow CSV extensions
 1. [Account on github](./github/)
 2. [Git](./git/)
-3. [Visual Studio Code](./vscode/) with LiveShare, Scholarly XML and Rainbow CSV extensions
 4. [Julia and Pluto notebooks](./pluto/)
 
 
