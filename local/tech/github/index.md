@@ -7,7 +7,6 @@ nav_order: 1
 
 # Account on github
 
-
 ## What it does
 
 We use github to share our editing work.  When we edit shared documents with Visual Studio Code, we also use our github accounts to authenticate our permissions in shared editing sessions.
