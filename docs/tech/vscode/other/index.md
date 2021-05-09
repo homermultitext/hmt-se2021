@@ -7,8 +7,14 @@ nav_order: 4
 ---
 
 
-# More extensions for editing with VS Code"
+# More extensions for editing with VS Code
 
 
-- wrap tag
-- revealjs
+## Slide shows
+
+In our meetings this summer, you'll see slide shows running in VS Code.  If you want to write markdown content and run a slide show from it, explore the `vscode-reveal` extension.
+
+
+## Others
+
+If you use an extension that makes your work on the HMT project easier, share your tips with other participants!

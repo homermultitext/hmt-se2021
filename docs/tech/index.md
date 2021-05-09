@@ -16,26 +16,33 @@ Users can participate in team editing in different roles, depending on their tec
 
 
 
-### Role: contributor
+### Role: consultant
+
+Consultants can read manuscripts online and take part in the team’s video chats. Requirements: a device (computer, tablet, phone) with internet access and:
+
 
 1. Web browser
 
 
 ### Role: editor
 
+Editors can do everything consultants can do, plus they can directly edit the team’s XML documents and structured text files. Requirements: editors need
+
 
 1. Web browser
-1. Account on github
 2. [Visual Studio Code](./vscode/) with LiveShare extension
-
+1. [Account on github](./github/)
 
 ### Role: session host
 
+Session hosts manage the team’s github repository, and run validation scripts to check the team’s editorial work. Requirements: session hosts need:
+
+
 1. Web browser
-1. Account on github
-2. [Git](./git/), and an account on github
 3. [Visual Studio Code](./vscode/) with LiveShare, Scholarly XML and Rainbow CSV extensions
-4. [Julia and Pluto noteooks](./pluto/)
+1. [Account on github](./github/)
+2. [Git](./git/)
+4. [Julia and Pluto notebooks](./pluto/)
 
 
 ## Detailed instructions

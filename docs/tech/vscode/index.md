@@ -12,7 +12,7 @@ has_children: true
 
 ## Install Visual Studio Code
 
-- [Download](https://code.visualstudio.com/download) and install
+- [Download](https://code.visualstudio.com/download) and install Visual Studio Code for your operating system
 
 
 ## Installing extensions
@@ -25,6 +25,12 @@ Visual Studio Code has a plethora of extensions you can add for specific kinds o
 
 ![Extensions mode](https://hcmid.github.io/ms-hackathon-2021/imgs/extensions.png)
 
-We will use three extensions in our editing.
+We will use three extensions in our editing:
+
+1. Live Share
+2. Scholarly XML
+3. Rainbow CSV
+
+Follow the links below for details on installing and configuring each extension.
 
 
