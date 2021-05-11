@@ -1,13 +1,13 @@
 ---
 layout: page
 parent: Workflow
-title: "Starting your Pluto notebook"
+title: "Opening your validating notebook"
 nav_order: 2
 ---
 
-# Starting your Pluto notebook
+# Opening your validating notebook
 
-It will take a couple of minutes for your Pluto notebook to build, so it's important to start your notebook   as soon as you've cloned your repository.
+It will take a couple of minutes for your Pluto notebook to build, so it's important to start your notebook as soon as you've cloned your repository.
 
 
 ## Starting the Pluto server

@@ -21,3 +21,4 @@ has_children: true
 
 ## Step by step
 
+Use the links below to see detailed descriptions of each of the steps listed above.
