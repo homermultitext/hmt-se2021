@@ -1,4 +1,4 @@
-sarah.hunt@furman.edu, ting.chen@furman.edu, hmn7@uw.edu,  atobdura@uw.edu, swahlgre@trinity.edu, aoyler@trinity.edu, wturner@trinity.edu, zjtymp23@g.holycross.edu, slcass24@g.holycross.edu, slpitt23@g.holycross.edu, m.j.janmaat@umail.leidenuniv.nl, n.j.s.van.der.meer@umail.leidenuniv.nl
+sarah.hunt@furman.edu, ting.chen@furman.edu, hmn7@uw.edu,  atobdura@uw.edu, swahlgre@trinity.edu, wturner@trinity.edu, zjtymp23@g.holycross.edu, slcass24@g.holycross.edu, slpitt23@g.holycross.edu, m.j.janmaat@umail.leidenuniv.nl, n.j.s.van.der.meer@umail.leidenuniv.nl
 
 
 
