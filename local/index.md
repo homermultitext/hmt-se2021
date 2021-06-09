@@ -7,7 +7,7 @@ nav_order: 0
 
 # Homer Multitext project: summer experience 2021
 
-Dates: June 8 - July 9, inclusive
+Dates: June 28 - July 9, inclusive
 
 Times: M-F, 12:00-1:00 eastern time
 
