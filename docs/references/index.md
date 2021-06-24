@@ -14,6 +14,11 @@ nav_order: 4
 - Dindorf:  [vol. 1 of his edition of Venetus B scholia](http://www.homermultitext.org/pd-pdfs/Dindorf-v3.pdf) (pdf)
 - edition of limited selection of *scholia* by Erbse (ca. 80% of Venetus A scholia; probably less for Venetus B)
 
+## *Iliad* 4
+
+- a ["low-friction" reader](https://www.inusum.com/homer/iliad/4/) (from Furman University, thanks, Randall Childress!)
+
+
 ## URNs
 
 - *Iliad* text
