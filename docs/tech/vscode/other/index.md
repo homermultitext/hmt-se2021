@@ -12,8 +12,12 @@ nav_order: 4
 
 ## Slide shows
 
-In our meetings this summer, you'll see slide shows running in VS Code.  If you want to write markdown content and run a slide show from it, explore the `vscode-reveal` extension.
+In our meetings this summer, you'll see slide shows running in VS Code.  If you want to write markdown content and run a slide show from it, explore the `vscode-reveal` extension or the `marp-vscode` extension.
 
+
+## Using Julia in VS Code
+
+You can run the same code we use in our validating notebooks in VS Code with the `julia` extension.
 
 ## Others
 
