@@ -30,11 +30,10 @@ Folio [52 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 
 
 - Suh Young  Choi       
-- *Augusta    Holyfield*  
-- Eunice     Kim        
+- *Augusta    Holyfield*      
 - Zach       Tympanick  
 - Savannah   Wahlgren   
-
+- (rotating visitor)
 
 ## Team 3
 
@@ -57,7 +56,7 @@ Folio [53 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 - Stephanie       Lindeborg 
 - Hannah          Newland   
 - *Stephen         Pittman*   
-- Anne-Catherine  Schaaf    
+- Anne-Catherine  Schaaf
 
 
 ## Team 5
@@ -67,7 +66,7 @@ Folio [53 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 
 
 - *Sophie   Cassarino*  
-- Brian    Clark      
-- Sarah    Hunt       
+- Brian    Clark
+- Sarah    Hunt  
 - Corinne  Pache      
 - William  Turner  

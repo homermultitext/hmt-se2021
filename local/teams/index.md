@@ -31,10 +31,9 @@ Folio [52 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 
 - Suh Young  Choi       
 - *Augusta    Holyfield*  
-- Eunice     Kim        
 - Zach       Tympanick  
 - Savannah   Wahlgren   
-
+- (rotating visitor)
 
 ## Team 3
 
