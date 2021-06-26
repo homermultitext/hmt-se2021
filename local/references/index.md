@@ -2,6 +2,7 @@
 layout: page
 title: "References for editors"
 nav_order: 4
+has_children: true
 ---
 
 
@@ -12,7 +13,7 @@ nav_order: 4
 
 
 - Dindorf:  [vol. 1 of his edition of Venetus B scholia](http://www.homermultitext.org/pd-pdfs/Dindorf-v3.pdf) (pdf)
-- edition of limited selection of *scholia* by Erbse (ca. 80% of Venetus A scholia; probably less for Venetus B)
+- text of limited [selection of *scholia* by Erbse](./wh-iliad4.html) (ca. 80% of Venetus A scholia; probably less for Venetus B. Text from WordHoard project: note that Erbse's critical apparatus is not included).  For help reading the format of Erbse's text, see [this guide](./erbse-key/)
 
 ## *Iliad* 4
 
