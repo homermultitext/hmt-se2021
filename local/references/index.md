@@ -24,13 +24,10 @@ has_children: true
 
 - *Iliad* text
     - Venetus B: `urn:cts:greekLit:tlg0012.tlg001.msB:`
-    - Upsilon 1.1: `urn:cts:greekLit:tlg0012.tlg001.e3:`
 - scholia text
     - Venetus B: `urn:cts:greekLit:tlg5026.msB.hmt:`
-    - Upsilon 1.1: `urn:cts:greekLit:tlg5026.e3.hmt:`
 - manuscript pages
     - Venetus B: `urn:cite2:hmt:msB.v1:`
-    - Upsilon 1.1: `urn:cite2:hmt:e3pages.v1:`
 
 
 Finding other URNs:
@@ -44,7 +41,7 @@ Finding other URNs:
 
 ### Summary of character set usage
 
-- alphabetic characters: alphabetic α-ω in upper or lower case. They may be combined with accents and/or breathings in the Unicode Greek range.  
+- alphabetic c  haracters: alphabetic α-ω in upper or lower case. They may be combined with accents and/or breathings in the Unicode Greek range.  
 - punctuation:
     -   period = `.`
     -   comma = `,`
@@ -52,6 +49,7 @@ Finding other URNs:
     -   high stop = `:`
     -  the "second" or "doubled" grave accent (a punctuation mark occasionally included in Venetus B and Upsilon 1.1 to mark some kind of clausal or phrasal unit) = `⸌` (Unicode U+2e0c)
     -   "end-of-scholion/unit" marker:  `⁑` (Unicode U+2015)
+    - "cross" marking change of unit:     `‡` (Unicode U+2021)
 - quantity:
     -   macron = `_` (underscore)
     -   breve = `^`
