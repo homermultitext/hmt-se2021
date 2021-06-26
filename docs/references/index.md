@@ -41,7 +41,7 @@ Finding other URNs:
 
 ### Summary of character set usage
 
-- alphabetic characters: alphabetic α-ω in upper or lower case. They may be combined with accents and/or breathings in the Unicode Greek range.  
+- alphabetic c  haracters: alphabetic α-ω in upper or lower case. They may be combined with accents and/or breathings in the Unicode Greek range.  
 - punctuation:
     -   period = `.`
     -   comma = `,`
