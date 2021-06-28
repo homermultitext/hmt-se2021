@@ -22,6 +22,7 @@ Folio [51 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 - Meryl     Janmaat      
 - David     Wright       
 
+Github repository for [team 1](https://github.com/hmteditors/se2021-1).
 
 
 ## Team 2
@@ -30,10 +31,13 @@ Folio [52 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 
 
 - Suh Young  Choi       
-- *Augusta    Holyfield*      
+- *Augusta    Holyfield*  
 - Zach       Tympanick  
 - Savannah   Wahlgren   
 - (rotating visitor)
+
+Github repository for [team 2](https://github.com/hmteditors/se2021-2).
+
 
 ## Team 3
 
@@ -46,6 +50,10 @@ Folio [52 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 - Tazuko   van Berkel 
 - Natasja  van der Meer 
 
+
+Github repository for [team 3](https://github.com/hmteditors/se2021-3).
+
+
 ## Team 4
 
 
@@ -56,7 +64,9 @@ Folio [53 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 - Stephanie       Lindeborg 
 - Hannah          Newland   
 - *Stephen         Pittman*   
-- Anne-Catherine  Schaaf
+- Anne-Catherine  Schaaf    
+
+Github repository for [team 4](https://github.com/hmteditors/se2021-4).
 
 
 ## Team 5
@@ -66,7 +76,10 @@ Folio [53 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 
 
 - *Sophie   Cassarino*  
-- Brian    Clark
-- Sarah    Hunt  
+- Brian    Clark      
+- Sarah    Hunt       
 - Corinne  Pache      
 - William  Turner  
+
+
+Github repository for [team 5](https://github.com/hmteditors/se2021-5).

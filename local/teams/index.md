@@ -22,6 +22,7 @@ Folio [51 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 - Meryl     Janmaat      
 - David     Wright       
 
+Github repository for [team 1](https://github.com/hmteditors/se2021-1).
 
 
 ## Team 2
@@ -35,6 +36,9 @@ Folio [52 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 - Savannah   Wahlgren   
 - (rotating visitor)
 
+Github repository for [team 2](https://github.com/hmteditors/se2021-2).
+
+
 ## Team 3
 
 Folio [52 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_52v_53r) (beginning with *Iliad* 4.60)
@@ -45,6 +49,10 @@ Folio [52 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 - Patrick  Lyle       
 - Tazuko   van Berkel 
 - Natasja  van der Meer 
+
+
+Github repository for [team 3](https://github.com/hmteditors/se2021-3).
+
 
 ## Team 4
 
@@ -58,6 +66,8 @@ Folio [53 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 - *Stephen         Pittman*   
 - Anne-Catherine  Schaaf    
 
+Github repository for [team 4](https://github.com/hmteditors/se2021-4).
+
 
 ## Team 5
 
@@ -70,3 +80,6 @@ Folio [53 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio
 - Sarah    Hunt       
 - Corinne  Pache      
 - William  Turner  
+
+
+Github repository for [team 5](https://github.com/hmteditors/se2021-5).
