@@ -118,6 +118,36 @@ Named entities with `@n` attribute with URN value:
 
 
 
-### Indexing *scholion* markers, dingbats and hyphens
+### Indexing *scholion* markers
+
+We record the occurrence of each footnote-like marker in the *Iliad* text in a delimited-text table with five columns.  You'll find an example in the `scholionmarkers.cex` file of your repository's `collections` directory.  The five columns are:
+
+#### 1. Identify the marker
+
+You need to assign each *scholion* marker an identifier in the collection `urn:cite2:hmt:vbmarkers.v1:`.  Use the convention `PAGE_SCHOLION`.  For example, the fifth scholion on folio 51 recto will be `urn:cite2:hmt:vbmarkers.v1:51r_5`.
+
+
+#### 2. Transcribe the text of the marker
+
+In the Venetus B, the markers are numeric values.  Wrap your reading in a `num` element with a `value` attribute giving its numeric value.  Example:  `<num value="19">ιθ</num>`
+
+
+#### 3. Image
+
+Use the Image Citation Tool to identify where on the image you read the marker.
+
+
+#### 4. Scholion
+
+Give the URN for the scholion this marker corresponds to.  Example: this URN refers to the fifth scholion on page 51r of the Venetus B manuscript: `urn:cts:greekLit:tlg5026.msB.hmt:4.51r_5`
+
+
+#### 5. *Iliad* passage with subreference
+
+The final column should give the URN for the *Iliad* line the marker is attached to.  Include at the end of this URN a *subreference*: an `@` sign followed by the text of the word the scholion is above.  Marker `urn:cite2:hmt:vbmarkers.v1:51r_5`, for example, is above the first word of *Iliad* 4.1, οἱ, so the URN will be  `urn:cts:greekLit:tlg0012.tlg001.msB:4.1@οἱ`
+
+
+
+### Indexing hyphens
 
 TBA
