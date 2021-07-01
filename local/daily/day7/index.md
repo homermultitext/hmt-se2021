@@ -13,8 +13,6 @@ nav_order: 7
 Apply metrics commonly used in natural-language processing to gain insight into the discourse of *scholia*
 
 
-
-
 ## What each team will do
 
 - continue to edit *Iliad* and *scholia* in parallel with each other
