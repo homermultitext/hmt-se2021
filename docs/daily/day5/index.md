@@ -10,14 +10,14 @@ nav_order: 5
 
 ## Goals
 
-Present one *scholion* to the whole group for joint reading and discussion
+Prepare a slide show or notes to present one *scholion* to the whole group for joint reading and discussion
 
 ## What each team will do
 
-Choose one *scholion* your team has looked.  Prepare a markdown slide presentation including:
+Choose one *scholion* your team has looked at.  Prepare a markdown slide presentation or page of notes  including:
 
 - the *Iliad* passage your scholion comments on, and a brief summary of the context in the *Iliad*
 - the page of the MS your scholion is on.  
 - a reference to an illustration that you can put in the chat stream
 - your transcription
-- questions, problems, highlights
+- any questions, problems, highlights
